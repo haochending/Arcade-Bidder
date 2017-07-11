@@ -1,0 +1,33 @@
+.area {
+    background: #eee;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.game {
+    max-width: 40%;
+    min-height: 100%;
+}
+
+.status {
+    max-width: 60%;
+    min-height: 100%;
+}
+
+.Bid-panel {
+}
+
+.Epic-item {
+    min-height: 350px;
+}
+
+.Bid-list {
+    max-height: 30%;
+    overflow-y: scroll;
+    text-align: initial;
+}
+
+.Count-down .circular {
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,18 @@
+.Room-search {
+    width: 200px;
+    margin: 20px auto 20px auto;
+}
+
+.Room-list {
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    min-height: 300px;
+    max-height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.Room {
+    cursor: pointer;
+}
